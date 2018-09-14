@@ -10,6 +10,8 @@ import store from './store'
 
 import _ from 'lodash'
 
+import 'material-icons/iconfont/material-icons.css';
+
 Vue.config.productionTip = false
 Vue.use(VueSax)
 Vue.use(Vue2TouchEvents)
